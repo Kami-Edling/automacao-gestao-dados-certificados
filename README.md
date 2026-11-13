@@ -1,5 +1,5 @@
 # automacao-gestao-dados-certificados
-Automação de ges[README.md](https://github.com/user-attachments/files/34817122/README.md)
+
 🚀 Automação de Gestão de Dados e Emissão de Certificados
 Este repositório apresenta um projeto robusto de gestão, tratamento de dados e automação de processos desenvolvido para otimizar o fluxo de emissão de certificados educacionais (Extensão, Pós-Graduação e MBA).
 
